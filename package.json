@@ -15,6 +15,7 @@
   "main": "index.json",
   "dependencies": {
     "prettier": "^3.0.0",
-    "prettier-plugin-go-template": "^0.0.15"
+    "prettier-plugin-go-template": "^0.0.15",
+    "prettier-plugin-toml": "^2.0.1"
   }
 }

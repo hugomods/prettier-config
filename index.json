@@ -14,7 +14,7 @@
       }
     }
   ],
-  "plugins": ["prettier-plugin-go-template"],
+  "plugins": ["prettier-plugin-toml", "prettier-plugin-go-template"],
   "tabWidth": 2,
   "useTabs": false
 }
