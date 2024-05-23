@@ -15,6 +15,7 @@
     }
   ],
   "plugins": ["prettier-plugin-toml", "prettier-plugin-go-template"],
+  "singleQuote": true,
   "tabWidth": 2,
   "useTabs": false
 }
