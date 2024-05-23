@@ -1,6 +1,6 @@
 # HugoMods Prettier Config
 
-This is a Prettier [config]((https://github.com/hugomods/prettier-config/blob/main/index.json)) for Hugo to format HTML templates, Markdown files, data files, i18n files and so on.
+This is a Prettier [config](https://github.com/hugomods/prettier-config/blob/main/index.json) for Hugo to format HTML templates, Markdown files, data files, i18n files and so on.
 
 [![License](https://flat.badgen.net/github/license/hugomods/prettier-config)](https://github.com/hugomods/prettier-config/blob/main/LICENSE)
 [![Version](https://flat.badgen.net/npm/v/@hugomods/prettier-config)](https://www.npmjs.com/package/@hugomods/prettier-config)
