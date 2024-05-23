@@ -14,7 +14,7 @@ npm i -D @hugomods/prettier-config
 
 ## Configuration
 
-Configure the following `package.json`.
+Configure the following settings on `package.json`.
 
 ```json
 {
