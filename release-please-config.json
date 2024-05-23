@@ -1,7 +1,7 @@
 {
     "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
     "monorepo-tags": true,
-    "release-type": "go",
+    "release-type": "node",
     "tag-separator": "/",
     "changelog-sections": [
         { "type": "chore", "section": "Miscellaneous Chores", "hidden": true },
