@@ -20,13 +20,11 @@ Configure the following settings on `package.json`.
 {
   "prettier": "@hugomods/prettier-config",
   "scripts": {
-    "lint:prettier": "prettier **/*.html i18n/* data/* **/*.md --check",
-    "lint:prettier:fix": "prettier **/*.html i18n/* data/* **/*.md -w",
+    "lint:prettier": "prettier . --check",
+    "lint:prettier:fix": "prettier . -w"
   }
 }
 ```
-
-> Tweak `**/*.html i18n/* data/* **/*.md` to match files that need to formated.
 
 ## Scripts
 
