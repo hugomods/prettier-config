@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.3](https://github.com/hugomods/prettier-config/compare/prettier-config/v0.1.2...prettier-config/v0.1.3) (2024-12-07)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency prettier to v3.3.2 ([326b965](https://github.com/hugomods/prettier-config/commit/326b965d5611cf1bcac049f6aec46abd0d6109bd))
+* **deps:** update dependency prettier to v3.3.3 ([1a2a260](https://github.com/hugomods/prettier-config/commit/1a2a2605b132e3976bf1fdfeddad7fdd15121c2a))
+* **deps:** update dependency prettier to v3.4.0 ([0431e12](https://github.com/hugomods/prettier-config/commit/0431e1227f1a7e6074e4ae521b088cf3e4e06531))
+* **deps:** update dependency prettier to v3.4.1 ([0c566c0](https://github.com/hugomods/prettier-config/commit/0c566c0519a6f94cd4298381d2608ab55dc34ed1))
+* **deps:** update dependency prettier to v3.4.2 ([f686332](https://github.com/hugomods/prettier-config/commit/f6863324da004e8151c3a9f345cc3581c8a0b173))
+
 ## [0.1.2](https://github.com/hugomods/prettier-config/compare/prettier-config/v0.1.1...prettier-config/v0.1.2) (2024-06-05)
 
 
