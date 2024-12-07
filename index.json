@@ -6,7 +6,7 @@
   "goTemplateBracketSpacing": true,
   "overrides": [
     {
-      "files": ["*.html", "*.gotmpl"],
+      "files": ["*.html", "*.gotmpl", "*.tmpl.*"],
       "options": {
         "parser": "go-template",
         "bracketSameLine": true
