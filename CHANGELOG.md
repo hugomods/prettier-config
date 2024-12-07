@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/hugomods/prettier-config/compare/prettier-config/v0.1.3...prettier-config/v0.2.0) (2024-12-07)
+
+
+### Features ✨
+
+* treat `*.tmpl.*` as Hugo templates ([16e9585](https://github.com/hugomods/prettier-config/commit/16e958504573a748bc6852a2a8fbf5cea3785100))
+
 ## [0.1.3](https://github.com/hugomods/prettier-config/compare/prettier-config/v0.1.2...prettier-config/v0.1.3) (2024-12-07)
 
 
