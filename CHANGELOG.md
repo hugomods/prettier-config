@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.2.1](https://github.com/hugomods/prettier-config/compare/prettier-config/v0.2.0...prettier-config/v0.2.1) (2025-12-03)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency prettier to v3.5.0 ([8e19e94](https://github.com/hugomods/prettier-config/commit/8e19e947cf07a429c90dcade05bb839a07aa7579))
+* **deps:** update dependency prettier to v3.5.1 ([527b9ff](https://github.com/hugomods/prettier-config/commit/527b9ff56fa197380335d0e93695cd664ed0794d))
+* **deps:** update dependency prettier to v3.5.2 ([324de51](https://github.com/hugomods/prettier-config/commit/324de518644d8fd63ed794dfd617b33689afdd49))
+* **deps:** update dependency prettier to v3.5.3 ([006d9e0](https://github.com/hugomods/prettier-config/commit/006d9e0b2acf77824a309c2f3ba154b5741a0a38))
+* **deps:** update dependency prettier to v3.6.0 ([d6ae3c2](https://github.com/hugomods/prettier-config/commit/d6ae3c278eca1904311e4e87242b9b102a4fbc1b))
+* **deps:** update dependency prettier to v3.6.1 ([63e8f0e](https://github.com/hugomods/prettier-config/commit/63e8f0ed7248d5335aadb394a5bab3806738b690))
+* **deps:** update dependency prettier to v3.6.2 ([dc126f1](https://github.com/hugomods/prettier-config/commit/dc126f16a75fc13b793894c15aecadaa9635ea27))
+* **deps:** update dependency prettier-plugin-toml to v2.0.2 ([a9aa574](https://github.com/hugomods/prettier-config/commit/a9aa574ef1ebe32993531471a7f291d50e936cdc))
+* **deps:** update dependency prettier-plugin-toml to v2.0.3 ([0c97fb1](https://github.com/hugomods/prettier-config/commit/0c97fb16eb644133311f041d5968ed74ffa6ecd7))
+* **deps:** update dependency prettier-plugin-toml to v2.0.4 ([ea7f34c](https://github.com/hugomods/prettier-config/commit/ea7f34ccd9abe9f9cb13a09c409aebfecdd406ba))
+* **deps:** update dependency prettier-plugin-toml to v2.0.5 ([4bc3387](https://github.com/hugomods/prettier-config/commit/4bc3387f241d36b1a2c53f5512d4dadba2dde8f4))
+* **deps:** update dependency prettier-plugin-toml to v2.0.6 ([aea9898](https://github.com/hugomods/prettier-config/commit/aea9898d927a33f7f05fab574513032068641c66))
+
 ## [0.2.0](https://github.com/hugomods/prettier-config/compare/prettier-config/v0.1.3...prettier-config/v0.2.0) (2024-12-07)
 
 
